@@ -1,4 +1,8 @@
 print("hello world!");
 print("hello world!");
 print("hello world!");
+<<<<<<< HEAD
 print("is it work?");
+=======
+print("yeah!");
+>>>>>>> feature/goodbye
